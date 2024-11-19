@@ -9,10 +9,10 @@ Dessa forma, o método de validação cruzada se trata, basicamente, de separar 
 Basicamente funciona da mesma forma que foi dito anteriormente na sessão de K-fold, a diferença é que cada amostra é considerada como uma "parte", então você treina com o dataset inteiro com exceção de 1 observação (que servirá de teste) e faz isso para cada uma das amostras. É um método bem pesado
 
 ### Bias-Variance Trade-Off for k-Fold Cross-Validation
-Basicamennte, o Leave-one-out tem variância muito alta mas menos Bias, dado que você está lidando com boa parte do Dataset. Entretanto, há mais variância, enquanto que no k-fold há menos variância, então tem o trade-off entre essas coisas.
+Basicamente, o Leave-one-out tem variância muito alta mas menos Bias, dado que você está lidando com boa parte do Dataset. Entretanto, há mais variância, enquanto que no k-fold há menos variância, então tem o trade-off entre essas coisas.
 
 ### Qual métrica é usada para a sumarização?
-Pensando em problemas de regressão, por exemplo, a métrica pode ser o MSE, enquanto que em contextos de problemas de classificação geralmente utiliza-se o número decasos de classificações erradas, ou seja, a contagem mesmo.
+Pensando em problemas de regressão, por exemplo, a métrica pode ser o MSE, enquanto que em contextos de problemas de classificação geralmente utiliza-se o número de casos de classificações erradas, ou seja, a contagem mesmo.
 
 
 ## Bootstrap
