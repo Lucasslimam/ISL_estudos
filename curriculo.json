@@ -1,0 +1,47 @@
+{
+    "EXPERIÊNCIA": {
+        "Analista de Validação de Modelos de Risco II e SME na Comunidade de Inteligência artificial": "\n    Realização da validação de modelos matemáticos utilizados no controle de risco de mercado e liquidez da Tesouraria (carteira Bancária e de Negociação);\n    Foco na detecção e mitigação dos riscos de modelo de: Apreçamento; Estrutura a termo de taxas de juros e superfícies de volatilidade; Métricas de Risco;\n    Atuação na automação de processos em Python em ambientes On Premisses e AWS;\n    Validação de modelos com alto rigor matemático e computacional intrínseco ao processo de validação independente;\n    Criação de aplicações envolvendo IA Generativa a fim de acelerar o processo de validação e automatizar questões de risco operacional.\n    ",
+        "Analista de Dados CRM Júnior": "\n    Preparação de dados para criação de painéis e geração de insights;\n    Experiência em automatizações de processos utilizando Hadoop, Alteryx, Python e SAS;\n    Atuei na criação de processos que se utilizavam de um grande volume dados via AWS para mensurar o sucesso das comunicações disparadas por CRM;\n    Criação de pipelines de ETL para preparar todos os dados referente a contratações para todos os produtos oferecidos para PF;\n    Criei pipelines de ETL para enormes conjuntos de dados com registros de público potencial, vistos e cliques por CPF em cada u dos canais de comunicação do banco;\n    Homologação de bases dos principais canais de comunicação de CRM (Mobile, E-mail, Push, Caixa Eletrônico e SMS).\n    "
+    },
+    "EDUCAÇÃO": [
+        "Bacharelado em Ciência da Computação - Universidade Federal do ABC",
+        "Bacharelado em Ciência e Tecnologia - Universidade Federal do ABC"
+    ],
+    "TECNOLOGIAS": [
+        "SAS",
+        "Hadoop",
+        "AWS Glue",
+        "AWS S3",
+        "AWS Step Functions",
+        "AWS Athena",
+        "AWS Firehose",
+        "AWS Lambda"
+    ],
+    "SOBRE MIM": "Sou apaixonado por resolver problemas lógicos, por isso até mesmo fiz uma pesquisa em Teoria dos Grafos e TCC em Ciência de Dados. Amo ver a relação entre Computação e Matemática. Gosto muito de aprender coisas além de computação, como música e novos idiomas.",
+    "PREMIAÇÕES": {
+        "PRAD (Programa de Remuneração por Alto Desempenho) - 2024": "Ganhei esse prêmio quando ainda era Júnior no time de Validação de Modelos, pela minha performance ao validar modelos e implementar automações que contribuíram para a eficiência da equipe.",
+        "Mérito - 2025": "Destaque para a velocidade de entrega juntamente com a qualidade de validações muito relevantes e pela capacidade de inovação com soluções de IA e demais automações."
+    },
+    "IDIOMAS": [
+        "Alemão - Intermediário",
+        "Inglês - Proficiente"
+    ],
+    "LINGUAGENS": [
+        "Python",
+        " Java",
+        " SQL",
+        " Terraform",
+        " C",
+        " C++",
+        " C#",
+        " Julia",
+        " HQL"
+    ],
+    "EXTRACURRICULARES": {
+        "Bolsista CNPq em Teoria dos Grafos": "Universidade federal do ABC",
+        "MLOps: Machine Learning e APIs": "Alura",
+        "Applied Machine Learning in Python": "Universidade de Michigan",
+        "Contribuição em código Open Source": "LightGraphs - Julia",
+        "Introduction to Data Science in Python": "Universidade de Michigan"
+    }
+}

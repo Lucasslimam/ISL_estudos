@@ -1,0 +1,22 @@
+{
+    "Experiências": {
+        "Analista de Validação de Modelos de Risco II e SME na Comunidade de Inteligência artificial": '
+        2022 - Presente 
+        Itaú Unibanco
+        Realização da validação de modelos matemáticos utilizados no controle de risco de mercado e liquidez da Tesouraria (carteira Bancária e de Negociação);
+        Foco na detecção e mitigação dos riscos de modelo de: Apreçamento; Estrutura a termo de taxas de juros e superfícies de volatilidade; Métricas de Risco;
+        Atuação na automação de processos em Python em ambientes On Premisses e AWS;
+        Validação de modelos com alto rigor matemático e computacional intrínseco ao processo de validação independente;
+        Criação de aplicações envolvendo IA Generativa a fim de acelerar o processo de validação e automatizar questões de risco operacional.',
+
+        "Analista de Dados CRM Júnior": '
+        2021 - 2022 
+        Itaú Unibanco
+        Preparação de dados para criação de painéis e geração de insights;
+        Experiência em automatizações de processos utilizando Hadoop, Alteryx, Python e SAS;
+        Atuei na criação de processos que se utilizavam de um grande volume dados via AWS para mensurar o sucesso das comunicações disparadas por CRM;
+        Criação de pipelines de ETL para preparar todos os dados referente a contratações para todos os produtos oferecidos para PF;
+        Criei pipelines de ETL para enormes conjuntos de dados com registros de público potencial, vistos e cliques por CPF em cada u dos canais de comunicação do banco;
+        Homologação de bases dos principais canais de comunicação de CRM (Mobile, E-mail, Push, Caixa Eletrônico e SMS).'
+    }
+}

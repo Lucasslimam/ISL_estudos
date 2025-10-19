@@ -1,1 +1,0 @@
-# Anotações sobre o capítulo

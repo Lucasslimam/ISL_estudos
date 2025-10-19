@@ -1,0 +1,72 @@
+{
+  "SOBRE MIM": "Sou apaixonado por resolver problemas lógicos, por isso até mesmo fiz uma pesquisa em Teoria dos Grafos e TCC em Ciência de Dados. Amo ver a relação entre Computação e Matemática. Gosto muito de aprender coisas além de computação, como música e novos idiomas.",
+  "EXPERIÊNCIA": [
+    {
+      "cargo": "Analista de Validação de Modelos de Risco II e SME na Comunidade de Inteligência Artificial",
+      "atividades": [
+        "Validação de modelos matemáticos para risco de mercado e liquidez",
+        "Mitigação de riscos de modelo: Apreçamento, Estrutura a termo, Volatilidade, Métricas de Risco",
+        "Automação de processos em Python (On Premisses e AWS)",
+        "Validação com rigor matemático e computacional",
+        "Aplicações com IA Generativa para validação e mitigação de risco operacional"
+      ]
+    },
+    {
+      "cargo": "Analista de Dados CRM Júnior",
+      "atividades": [
+        "Preparação de dados para painéis e insights",
+        "Automatizações de processos com Hadoop, Alteryx, Python e SAS",
+        "Mensuração de comunicações de CRM via AWS",
+        "Criação de pipelines ETL para contratações de produtos PF",
+        "ETL para grandes volumes de dados de campanhas de CRM",
+        "Homologação de bases dos principais canais de comunicação (Mobile, E-mail, Push, Caixa Eletrônico, SMS)"
+      ]
+    }
+  ],
+  "EDUCAÇÃO": [
+    "Bacharelado em Ciência da Computação - Universidade Federal do ABC",
+    "Bacharelado em Ciência e Tecnologia - Universidade Federal do ABC"
+  ],
+  "TECNOLOGIAS": [
+    "SAS",
+    "Hadoop",
+    "AWS Glue",
+    "AWS S3",
+    "AWS Step Functions",
+    "AWS Athena",
+    "AWS Firehose",
+    "AWS Lambda"
+  ],
+  "LINGUAGENS": [
+    "Python",
+    "Java",
+    "SQL",
+    "Terraform",
+    "C",
+    "C++",
+    "C#",
+    "Julia",
+    "HQL"
+  ],
+  "IDIOMAS": [
+    "Alemão - Intermediário",
+    "Inglês - Proficiente"
+  ],
+  "PREMIAÇÕES": [
+    {
+      "nome": "PRAD (Programa de Remuneração por Alto Desempenho) - 2024",
+      "descrição": "Prêmio recebido por performance ao validar modelos e implementar automações que aumentaram a eficiência da equipe."
+    },
+    {
+      "nome": "Mérito - 2025",
+      "descrição": "Reconhecimento pela velocidade de entrega, qualidade das validações e inovação com soluções de IA e automações."
+    }
+  ],
+  "EXTRACURRICULARES": [
+    "Bolsista CNPq em Teoria dos Grafos - Universidade Federal do ABC",
+    "MLOps: Machine Learning e APIs - Alura",
+    "Applied Machine Learning in Python - Universidade de Michigan",
+    "Contribuição em código Open Source - LightGraphs (Julia)",
+    "Introduction to Data Science in Python - Universidade de Michigan"
+  ]
+}
